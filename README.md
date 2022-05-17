@@ -32,8 +32,8 @@ Note: Compiling for the first time may take a while.
 To get started, first clone this repo:
 
 ```bash
-git clone https://github.com/polakowo/vectorbt.git
-cd vectorbt/apps/candlestick-patterns
+git clone https://github.com/rishav-singh-0/candlestick-patterns.git
+cd candlestick-patterns
 ```
 
 Create and activate a conda env:
@@ -69,4 +69,4 @@ Visit [http://127.0.0.1:8050/](http://127.0.0.1:8050/)
 
 ## Screenshot
 
-![screenshot.png](https://raw.githubusercontent.com/polakowo/vectorbt/master/apps/candlestick-patterns/screenshot.png)
+![screenshot.png](./screenshot.png)

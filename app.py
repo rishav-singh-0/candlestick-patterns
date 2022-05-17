@@ -52,7 +52,7 @@ DEBUG = os.environ.get(
 ) == "True"
 GITHUB_LINK = os.environ.get(
     "GITHUB_LINK",
-    "https://github.com/polakowo/vectorbt/tree/master/apps/candlestick-patterns",
+    "https://github.com/rishav-singh-0/candlestick-patterns",
 )
 
 app = dash.Dash(
